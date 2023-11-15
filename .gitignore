@@ -1,3 +1,10 @@
+# Except some files
+!Case_1_parameters.xlsx
+!Case_2_parameters.xlsx
+!Case_3_parameters.xlsx
+!Case_4_parameters.xlsx
+!Case_5_parameters.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
